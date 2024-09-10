@@ -1,2 +1,1 @@
-# Flux
-A Event/Log collector built in Rust
+# ᚠᛚᚢᚷ - A lightweight Event collector
